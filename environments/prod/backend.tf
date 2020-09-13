@@ -15,7 +15,7 @@
 
 terraform {
   backend "gcs" {
-    bucket = "certs-283920-tfstate"
+    bucket = "f5-certs-tfstate"
     prefix = "env/prod"
   }
 }
