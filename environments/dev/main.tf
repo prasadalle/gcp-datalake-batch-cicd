@@ -12,7 +12,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 
-# CI/CD Testing - 2
+# CI/CD Testing - 3 by SGS
 
 terraform {
   required_version = ">= 0.12.0"
